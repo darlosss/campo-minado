@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:campo_minado/app/store/settings_tabuleiro/settings_tabuleiro.dart';
 import 'package:mobx/mobx.dart';
 
